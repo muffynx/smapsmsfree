@@ -1,2 +1,2 @@
-# smapsmsfree
+# spamsms
 free ค้าบ
